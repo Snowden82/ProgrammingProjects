@@ -1,0 +1,54 @@
+/* add your CSS here */
+img{
+    border: 1px solid gray;
+    width: 300px;
+    height: 200px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: -20px;
+}
+
+ul{
+    margin: .25em;
+    padding: .5em;
+}
+
+li{
+    font-size: 10pt;
+    list-style: none;
+}
+
+span{
+    font-weight: bold;
+}
+
+.card_container{
+    border: 1px solid gray;
+    box-shadow: lightgray 10px 10px 5px;
+    padding: .5em;
+    width: 300px;
+    height: 520px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.description_container{
+    border: 1px solid gray;
+    width: 310px;
+    height: 270px;
+
+}
+
+.interesting_fact{
+    font-style: italic;
+    font-size: 10pt;
+    margin: .25em;
+    padding: .5em;
+}
+
+.brief_description{
+    font-size: 10pt;
+    margin: .25em;
+    padding: .5em;
+}
